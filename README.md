@@ -1,5 +1,5 @@
 # Project URL
-https://github.com/Deepika-R7/number-guessing-game/tree/main
+https://roadmap.sh/projects/number-guessing-game
 
 # Number Guessing Game 
 
