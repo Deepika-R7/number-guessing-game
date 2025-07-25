@@ -2,8 +2,6 @@
 
 A simple CLI-based number guessing game written in Python. The user has to guess a randomly generated number within limited attempts, based on the selected difficulty level.
 
----
-
 # Features
 - Difficulty levels: Easy, Medium, Hard
 - Helpful hints after each guess
@@ -11,7 +9,14 @@ A simple CLI-based number guessing game written in Python. The user has to guess
 - High score tracking per difficulty level
 - Option to replay multiple rounds
 
----
+# How to Run the game
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/number-guessing-game.git
+   cd number-guessing-game
+
+# Run the script
+python number_guessing_game.py
 
 ## Sample Output
 
@@ -65,4 +70,3 @@ Would you like to play again? (yes/no): no
 Thanks for playing! Goodbye!
 
 === Code Execution Successful ===
-
