@@ -1,3 +1,6 @@
+# Project URL
+https://github.com/Deepika-R7/number-guessing-game/tree/main
+
 # Number Guessing Game 
 
 A simple CLI-based number guessing game written in Python. The user has to guess a randomly generated number within limited attempts, based on the selected difficulty level.
